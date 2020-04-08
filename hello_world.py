@@ -10,6 +10,7 @@ class Person:
         Person.x += 14
         eg = 10
 
+
     def getId(self):
         return self.id
 

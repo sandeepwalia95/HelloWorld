@@ -7,7 +7,7 @@ class Person:
     
     def __init__(self):
         self.id = Person.x
-        Person.x += 2
+        Person.x += 14
 
     def getId(self):
         return self.id
